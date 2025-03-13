@@ -1,6 +1,4 @@
-<<<<<<< Updated upstream
-# Project-Structure
-=======
+
 # Project-Structure
 
 1. **[Introduction](#introduction)**
@@ -38,5 +36,3 @@ The Project Structure of each project is maintained as in  the following format:
 - **Author**: [Pradeep Kumar O](o.pradeep64@gmail.com)
 
 
-
->>>>>>> Stashed changes
