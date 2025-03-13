@@ -1,3 +1,6 @@
+<<<<<<< Updated upstream
+# Project-Structure
+=======
 # Project-Structure
 
 1. **[Introduction](#introduction)**
@@ -32,7 +35,8 @@ The Project Structure of each project is maintained as in  the following format:
 - **Description**: This is a Next.js project bootstrapped with `create-next-app`. which has a tailwind, turbopack and eslint setup.
 - **Project Path**: [nextjs_page_structure_ts](#)
 - **License**: MIT
-- **Author**: Pradeep Kumar O
+- **Author**: [Pradeep Kumar O](o.pradeep64@gmail.com)
 
 
 
+>>>>>>> Stashed changes
